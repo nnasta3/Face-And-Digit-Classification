@@ -8,6 +8,6 @@ For example, if the shape formed by the pixels was diagonal, it is more likely t
 First,useonly 10% ofthedatapoints that are reserved for training, then 20%, 30%, 40%, 50%, 60%, 70%, 80%, 90%, and ﬁnally 100%. 
 The results are the output of a function of with input the percentage of data points used for training. 
 # Compare the performances of the two algorithms using the part of the dataset that is reserved for testing, and report:
-• The time needed for training as a function of the number (or percentage) of data points used for training. 
-• The prediction error (and standard deviation) as a function of the number (or percentage) of data points used for training. 
-• This can be seen in the report
+• The time needed for training as a function of the number (or percentage) of data points used for training.   
+• The prediction error (and standard deviation) as a function of the number (or percentage) of data points used for training.   
+• This can be seen in the report  
