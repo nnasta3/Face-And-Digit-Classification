@@ -1,6 +1,6 @@
 # Face-And-Digit-Classification
 # Implement two classiﬁcation algorithms for detecting faces and classifying digits: 
-(a) Perceptron 
+(a) Perceptron \n
 (b) Naive Bayes Classiﬁer 
 # Design the features for each of the two problems, and write a program for extracting the features from each image.
 Looked at the pixels surrounding the current pixel and increased the probability if the pixels formed a certain pattern.
